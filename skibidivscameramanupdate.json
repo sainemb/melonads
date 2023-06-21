@@ -13,7 +13,7 @@
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"1",
       "on_off_native_listview":"",
-      "interval_intertitial": 0,
+      "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
